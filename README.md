@@ -32,5 +32,6 @@ This project analyzes retail sales performance using Power BI to identify key bu
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard]<img width="1434" height="807" alt="Superstore-Dashboard" src="https://github.com/user-attachments/assets/9849b91c-8458-4a05-b447-d0846d3e6885" />
+
 
