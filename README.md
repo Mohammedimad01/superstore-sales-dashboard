@@ -31,7 +31,7 @@ This project analyzes retail sales performance using Power BI to identify key bu
 * Improve performance in weaker regions
 
 ## 📊 Dashboard Preview
+<img width="1766" height="990" alt="Superstore_dash" src="https://github.com/user-attachments/assets/c0987ba5-e206-4901-bf4f-1435e4772ad5" />
 
-<img width="1434" height="807" alt="Superstore-Dashboard" src="https://github.com/user-attachments/assets/9849b91c-8458-4a05-b447-d0846d3e6885" />
 
 
