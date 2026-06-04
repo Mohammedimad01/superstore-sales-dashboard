@@ -1,15 +1,15 @@
-# 📊 Retail Sales & Profit Performance Dashboard
+# Retail Sales & Profit Performance Dashboard
 
-## 🔍 Overview
+## Overview
 
 This project analyzes retail sales performance using Power BI to identify key business insights related to revenue, profitability, customer segments, and regional performance.
 
-## 🛠 Tools Used
+## Tools Used
 
 * Power BI
 * Excel
 
-## 📈 Key KPIs
+## Key KPIs
 
 * Total Sales
 * Total Profit
@@ -17,14 +17,14 @@ This project analyzes retail sales performance using Power BI to identify key bu
 * Total Quantity
 * Total Discount
 
-## 🔍 Key Insights
+## Key Insights
 
 * West region leads in sales
 * Technology category is most profitable
 * High discounts reduce profit
 * Consumer segment drives most sales
 
-## 💡 Recommendations
+## Recommendations
 
 * Reduce discounts on low-margin products
 * Focus on high-profit categories
